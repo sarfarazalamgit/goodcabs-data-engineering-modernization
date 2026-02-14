@@ -44,3 +44,7 @@ Transforming GoodCabs' Regional Data Analytics through Databricks Lakehouse and 
 ![Project Architecture](architecture.jpg)
 
 ## Datasets Used
+[1. data](https://github.com/sarfarazalamgit/goodcabs-data-engineering-modernization/tree/main/1.%20data)
+
+## Scripts
+https://github.com/sarfarazalamgit/goodcabs-data-engineering-modernization/tree/main/2.%20codes
