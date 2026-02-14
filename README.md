@@ -41,7 +41,7 @@ Transforming GoodCabs' Regional Data Analytics through Databricks Lakehouse and 
 - Enable rapid adaptation to regional needs
 
 ## Architecture
-![Project Architecture](architecture.jpg)
+![Project Architecture](architecture.png)
 
 ## Datasets
 [1. data](https://github.com/sarfarazalamgit/goodcabs-data-engineering-modernization/tree/main/1.%20data)
