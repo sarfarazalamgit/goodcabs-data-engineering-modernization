@@ -1,6 +1,6 @@
 # GoodCabs Data Engineering Modernization
 
-**Transforming GoodCabs' Regional Data Analytics through Databricks Lakehouse and Declarative Spark Pipelines**
+**Transforming GoodCabs Regional Data Analytics through Databricks Lakehouse and Declarative Spark Pipelines**
 
 ---
 
